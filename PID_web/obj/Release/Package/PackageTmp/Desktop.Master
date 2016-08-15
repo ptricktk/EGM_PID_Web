@@ -1,0 +1,86 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Desktop.master.vb" Inherits="PID_web.Desktop" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>EGM PID web versie</title>
+    <link rel="stylesheet" href="DesktopStyle.css" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="frmMain" runat="server">
+    <asp:Table runat="server" Width="100%" CellPadding="0" CellSpacing="0">
+        <asp:TableRow Height="70">
+            <asp:TableCell VerticalAlign="Top" HorizontalAlign="Center">
+                <asp:ContentPlaceHolder ID="cphTopMenu" runat="server">
+                <asp:Table runat="server" ID="tbleTopMenu" CellSpacing="0" CellPadding="0">
+                    <asp:TableRow>
+                        <asp:TableCell>
+                            &nbsp;
+                        </asp:TableCell>
+                        <asp:TableCell Width="150" VerticalAlign="Top">
+                            <asp:Image ID="EGMlogo" runat="server" ImageUrl="~/Images/EGMlogo.jpg" BorderStyle="None" BorderWidth="0" Height="50" />
+                        </asp:TableCell>
+                        <asp:TableCell Width="125">
+                            <asp:HyperLink runat="server" ID="lnkSigaal" Text="Signaal" CssClass="navigatie"></asp:HyperLink>
+                        </asp:TableCell>
+                        <asp:TableCell Width="125">
+                            <asp:HyperLink runat="server" ID="lnkKlachten" Text="Klachten" CssClass="navigatie"></asp:HyperLink>
+                        </asp:TableCell>
+                        <asp:TableCell Width="125">
+                            <asp:HyperLink runat="server" ID="lnkStartEvaluatie" Text="Start en Evaluatie" CssClass="navigatie"></asp:HyperLink>
+                        </asp:TableCell>
+                        <asp:TableCell Width="125">
+                            <asp:HyperLink runat="server" ID="lnkBeoordeling" Text="Beoordeling scores" CssClass="navigatie"></asp:HyperLink>
+                        </asp:TableCell>
+                        <asp:TableCell Width="125">
+                            <asp:HyperLink runat="server" ID="lnkAudits" Text="Audits" CssClass="navigatie"></asp:HyperLink>
+                        </asp:TableCell>
+                        <asp:TableCell Width="125">
+                            <asp:HyperLink runat="server" ID="Archief" Text="Archief" CssClass="navigatie"></asp:HyperLink>
+                        </asp:TableCell>
+                        <asp:TableCell Width="125">
+                            <asp:HyperLink runat="server" ID="lnkAdministratie" Text="Administratie" CssClass="navigatie"></asp:HyperLink>
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            &nbsp;
+                        </asp:TableCell>
+                    </asp:TableRow>
+                </asp:Table>
+                </asp:ContentPlaceHolder>
+            </asp:TableCell>
+        </asp:TableRow>
+        <asp:TableRow Height="60">
+            <asp:TableCell HorizontalAlign="Center">
+                <asp:ContentPlaceHolder ID="cphBigImage" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </asp:TableCell>
+        </asp:TableRow>
+        <asp:TableRow Height="30" BackColor="White">
+            <asp:TableCell HorizontalAlign="Center">
+                <asp:ContentPlaceHolder ID="cphInfo" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </asp:TableCell>
+        </asp:TableRow>
+        <asp:TableRow BackColor="WhiteSmoke">
+            <asp:TableCell HorizontalAlign="Center">
+                <asp:ContentPlaceHolder ID="cphContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </asp:TableCell>
+        </asp:TableRow>
+        <asp:TableRow Height="30" BackColor="Gray">
+            <asp:TableCell>
+                <asp:ContentPlaceHolder ID="cphFooter" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </asp:TableCell>
+        </asp:TableRow>
+    </asp:Table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1157 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PID_web
+</name>
+</assembly>
+<members>
+<member name="F:PID_web._Default._tbleInfo">
+<summary>
+tbleInfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web._Default._tblePIDzoek">
+<summary>
+tblePIDzoek control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web._Default._txtZoekPID">
+<summary>
+txtZoekPID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web._Default._rbListStatus">
+<summary>
+rbListStatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web._Default._rbListFormulier">
+<summary>
+rbListFormulier control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web._Default._cbxinclusiefPlantoelichting">
+<summary>
+cbxinclusiefPlantoelichting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web._Default._tbleContent">
+<summary>
+tbleContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web._Default._tbleResultaten">
+<summary>
+tbleResultaten control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web._Default._grdResultaten">
+<summary>
+grdResultaten control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._frmMain">
+<summary>
+frmMain control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._cphTopMenu">
+<summary>
+cphTopMenu control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._tbleTopMenu">
+<summary>
+tbleTopMenu control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._EGMlogo">
+<summary>
+EGMlogo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._lnkSigaal">
+<summary>
+lnkSigaal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._lnkKlachten">
+<summary>
+lnkKlachten control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._lnkStartEvaluatie">
+<summary>
+lnkStartEvaluatie control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._lnkBeoordeling">
+<summary>
+lnkBeoordeling control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._lnkAudits">
+<summary>
+lnkAudits control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._Archief">
+<summary>
+Archief control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._lnkAdministratie">
+<summary>
+lnkAdministratie control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._cphBigImage">
+<summary>
+cphBigImage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._cphInfo">
+<summary>
+cphInfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._cphContent">
+<summary>
+cphContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Desktop._cphFooter">
+<summary>
+cphFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:PID_web.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:PID_web.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:PID_web.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:PID_web.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:PID_web.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:PID_web.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:PID_web.Projectlifecycle._tbleBigImage">
+<summary>
+tbleBigImage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._titelProject">
+<summary>
+titelProject control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._titelIntroPlantoelichting">
+<summary>
+titelIntroPlantoelichting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._tbleInfo">
+<summary>
+tbleInfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectAlgemeen">
+<summary>
+lnkProjectAlgemeen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectIntern">
+<summary>
+lnkProjectIntern control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectExtern">
+<summary>
+lnkProjectExtern control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectIntranet">
+<summary>
+lnkProjectIntranet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectKosten">
+<summary>
+lnkProjectKosten control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectKengetallen">
+<summary>
+lnkProjectKengetallen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectGebouwSpecificaties">
+<summary>
+lnkProjectGebouwSpecificaties control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectAudits">
+<summary>
+lnkProjectAudits control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectWerkderden">
+<summary>
+lnkProjectWerkderden control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectKlachten">
+<summary>
+lnkProjectKlachten control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectDuurzaamheid">
+<summary>
+lnkProjectDuurzaamheid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectStartbijeenkomst">
+<summary>
+lnkProjectStartbijeenkomst control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectEvaluatiebijeenkomst">
+<summary>
+lnkProjectEvaluatiebijeenkomst control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lnkProjectBIM">
+<summary>
+lnkProjectBIM control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lifecycleCell0">
+<summary>
+lifecycleCell0 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lifecycleCell1">
+<summary>
+lifecycleCell1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lifecycleCell2">
+<summary>
+lifecycleCell2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lifecycleCell3">
+<summary>
+lifecycleCell3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lifecycleCell4">
+<summary>
+lifecycleCell4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lifecycleCell5">
+<summary>
+lifecycleCell5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._tbleProjectAlgemeen">
+<summary>
+tbleProjectAlgemeen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblRoepnaam">
+<summary>
+lblRoepnaam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblWijkPlangebied">
+<summary>
+lblWijkPlangebied control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblExterneNaam">
+<summary>
+lblExterneNaam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblAdres">
+<summary>
+lblAdres control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblClusternaam">
+<summary>
+lblClusternaam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblPostcode">
+<summary>
+lblPostcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblCommercieleNaam">
+<summary>
+lblCommercieleNaam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblPlaats">
+<summary>
+lblPlaats control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblCommercieleNaamUK">
+<summary>
+lblCommercieleNaamUK control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblLand">
+<summary>
+lblLand control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblStatusProject">
+<summary>
+lblStatusProject control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblMarktcategorie">
+<summary>
+lblMarktcategorie control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblProjectFase">
+<summary>
+lblProjectFase control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblCommercieleCategorie">
+<summary>
+lblCommercieleCategorie control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblDatumProspect">
+<summary>
+lblDatumProspect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblProspectnummer">
+<summary>
+lblProspectnummer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblProjectSoort">
+<summary>
+lblProjectSoort control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblDatumProject">
+<summary>
+lblDatumProject control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblOpdrachtsoort">
+<summary>
+lblOpdrachtsoort control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblVervolgOp">
+<summary>
+lblVervolgOp control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblVerwervingswijze">
+<summary>
+lblVerwervingswijze control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblOpdrachtsom">
+<summary>
+lblOpdrachtsom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblHonorariumafspraak">
+<summary>
+lblHonorariumafspraak control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblPlantoelichting">
+<summary>
+lblPlantoelichting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblProjectSpecificaties">
+<summary>
+lblProjectSpecificaties control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblOntwerpenStart">
+<summary>
+lblOntwerpenStart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblOntwerpenEind">
+<summary>
+lblOntwerpenEind control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblEerstePaal">
+<summary>
+lblEerstePaal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblSOstart">
+<summary>
+lblSOstart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblSOeind">
+<summary>
+lblSOeind control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblHoogstePunt">
+<summary>
+lblHoogstePunt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblVOstart">
+<summary>
+lblVOstart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblVOeind">
+<summary>
+lblVOeind control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblOpleverdatum">
+<summary>
+lblOpleverdatum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblDOstart">
+<summary>
+lblDOstart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblDOeind">
+<summary>
+lblDOeind control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblOpening">
+<summary>
+lblOpening control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblTechnischOntwerpStart">
+<summary>
+lblTechnischOntwerpStart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblTechnischOntwerpEind">
+<summary>
+lblTechnischOntwerpEind control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblUitvoeringStart">
+<summary>
+lblUitvoeringStart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblUitvoeringEind">
+<summary>
+lblUitvoeringEind control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._tbleProjectIntern">
+<summary>
+tbleProjectIntern control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblTeam">
+<summary>
+lblTeam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblGroep">
+<summary>
+lblGroep control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblProjectArchitect">
+<summary>
+lblProjectArchitect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblGroepsManager">
+<summary>
+lblGroepsManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblProjectCoordinator">
+<summary>
+lblProjectCoordinator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblGroepsArchitect">
+<summary>
+lblGroepsArchitect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblBewaker1">
+<summary>
+lblBewaker1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblBewaker2">
+<summary>
+lblBewaker2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblArchitectenOntwerpers">
+<summary>
+lblArchitectenOntwerpers control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblInterieurArchitecten">
+<summary>
+lblInterieurArchitecten control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblCoordinatoren">
+<summary>
+lblCoordinatoren control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblPersoonsprofielen">
+<summary>
+lblPersoonsprofielen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblProjectteam">
+<summary>
+lblProjectteam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._tbleProjectKengetallen">
+<summary>
+tbleProjectKengetallen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblTerreinOppervlakte">
+<summary>
+lblTerreinOppervlakte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblBVOalgemeneVoorzieningen">
+<summary>
+lblBVOalgemeneVoorzieningen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblBebouwdTerreinOppervlakte">
+<summary>
+lblBebouwdTerreinOppervlakte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblBVOeenheden">
+<summary>
+lblBVOeenheden control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblBrutoInhoud">
+<summary>
+lblBrutoInhoud control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblNettoInhoud">
+<summary>
+lblNettoInhoud control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblBVO">
+<summary>
+lblBVO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblNVO">
+<summary>
+lblNVO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblAantalParkeerplaatsen">
+<summary>
+lblAantalParkeerplaatsen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblGebruikersoppervlakte">
+<summary>
+lblGebruikersoppervlakte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblAantalBouwlagen">
+<summary>
+lblAantalBouwlagen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblVerhuurbareOppervlakte">
+<summary>
+lblVerhuurbareOppervlakte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblGebouwhoogte">
+<summary>
+lblGebouwhoogte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblparkeerOppervlakte">
+<summary>
+lblparkeerOppervlakte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblGevelOppervlakte">
+<summary>
+lblGevelOppervlakte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblBeganegrondOppervlakte">
+<summary>
+lblBeganegrondOppervlakte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblDakOppervlakte">
+<summary>
+lblDakOppervlakte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PID_web.Projectlifecycle._lblFloorSpaceIndex">
+<summary>
+lblFloorSpaceIndex control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
